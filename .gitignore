@@ -1,0 +1,6 @@
+test_directory/
+venv/
+.idea/
+__pycache__/
+no_git/
+log.txt
