@@ -1,4 +1,4 @@
-# Folders synchroniser
+# Folders Synchroniser
 
 ### Project Description
 The script creates a copy folder of the original folder and periodically updates it.
